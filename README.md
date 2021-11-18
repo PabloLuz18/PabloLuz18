@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PabloLuz18
-- 👀 I’m interested in learn frontend.
+- 👀 I’m interested in learn front-end.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on my email: luzpablo47@gmail.com.
